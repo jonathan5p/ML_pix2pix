@@ -1,4 +1,4 @@
-<h2><center>Final Project for the Machine Learning courseIELE4014<br> Jonathan Steven Roncancio Pinzón <br>Universidad de los Andes <br>201617312 </center></h2>
+<h2><center>Final Project for the Machine Learning course IELE4014<br> Jonathan Steven Roncancio Pinzón <br>Universidad de los Andes <br>201617312 </center></h2>
 
 From scratch implementation of the famous pix2pix architecture. 
 
